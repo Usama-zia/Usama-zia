@@ -17,7 +17,7 @@ Below is the collection of some of my data science portfolio. These projects inc
 - **Potential Talents**: https://github.com/Usama-zia/Potential-Talent.git
 - **Term Deposit Marketing**: https://github.com/Usama-zia/Term-Deposit-Marketing.git
 - **Happy Customers**: https://github.com/Usama-zia/Happy-Customers.git
--**ValueInvestor**: 
+- **ValueInvestor**: 
 
 <!--
 **Usama-zia/Usama-zia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
