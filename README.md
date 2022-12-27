@@ -11,7 +11,7 @@ About Me
 
 ### Projects
 #### Data Science Projects
-Below is the collection of some of my data science portfolio. These projects include both deep learning and machine learning algorithms for classification, image segmenation, regression and ranking. Some data preprocessing highlights include Natural Language Processing, Image Preprocessing, One Hot Encoding, Statistical Testing, Up/Down Sampling and many more! Check them out from these links.
+Below is the collection of some of my data science portfolio. These projects include both machine learning and deep learning algorithms for classification, image segmenation, and ranking. Some of the fields I have worked on include computer vision, Natural Language Processing, multimodal machine learning, Image Preprocessing, Exploratory Data Analysis, Statistical Testing, Up/Down Sampling and many more! Check some of them out from these links.
 
 - **MonReader**: https://github.com/Usama-zia/MonReader.git
 - **Potential Talents**: https://github.com/Usama-zia/Potential-Talent.git
