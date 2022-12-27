@@ -6,7 +6,7 @@ About Me
 - 📖 Education: Masters in Artificial Intelligence (University of Essex)
 - 👷🏻‍♂️ Currently an AI Resident at Apziva
 - 📚 Tech Stack: Python, SQL, MATLAB, JavaScript, C++, C#
-- 🤓 Looking to collaborate on Artidicial Intelligence projects
+- 🤓 Looking to collaborate on Artificial Intelligence projects
 - 🤔 If you're an AI Enthusiast, I would love to have a conversation with you!
 
 ### Projects
