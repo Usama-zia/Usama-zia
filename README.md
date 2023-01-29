@@ -13,7 +13,7 @@ About Me
 #### Data Science Projects
 Below is the collection of some of my data science portfolio. These projects include both machine learning and deep learning algorithms for classification, image segmenation, and ranking. Some of the fields I have worked on include computer vision, Natural Language Processing, multimodal machine learning, Image Preprocessing, Exploratory Data Analysis, Statistical Testing, Up/Down Sampling and many more! Check some of them out from these links.
 
-- **ValueInvestor**: 
+- **ValueInvestor**: https://github.com/Usama-zia/value_investor.git
 - **MonReader**: https://github.com/Usama-zia/MonReader.git
 - **Potential Talents**: https://github.com/Usama-zia/Potential-Talent.git
 - **Term Deposit Marketing**: https://github.com/Usama-zia/Term-Deposit-Marketing.git
