@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Usama Muhammadi, a Data Scientist, AI Engineer, Python Developer, and Web Developer.
+I'm Usama Muhammadi, an MLOps Engineeer, Data Scientist, AI Engineer, Python Developer, and Web Developer.
 
 About Me
 - 📖 Education: Masters in Artificial Intelligence (University of Essex)
