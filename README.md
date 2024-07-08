@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Usama Muhammadi, an MLOps Engineeer, Machine Learning Engineer, Data Scientist, AI Engineer, Python Developer, and Web Developer.
+I'm Usama Muhammadi, a Data Scientist, Machine Learning Engineer, and AI Engineer.
 
 About Me
 - 📖 Education: Masters in Artificial Intelligence (University of Essex)
@@ -11,7 +11,7 @@ About Me
 
 ### Projects
 #### Data Science Projects
-Below is the collection of some of my data science portfolio. These projects include both machine learning and deep learning algorithms for classification, image segmenation, and ranking. Some of the fields I have worked on include computer vision, Natural Language Processing, multimodal machine learning, Image Preprocessing, Exploratory Data Analysis, Statistical Testing, Up/Down Sampling and many more! Check some of them out from these links.
+Explore a curated collection of my data science portfolio, showcasing a diverse range of projects that demonstrate my expertise in machine learning and deep learning. These projects encompass a variety of advanced algorithms for tasks such as classification, image segmentation, and ranking. My work spans several exciting fields, including computer vision, Natural Language Processing (NLP), multimodal machine learning, image preprocessing, exploratory data analysis, statistical testing, and data resampling techniques. Dive into these projects through the links below to see the innovative solutions and insights I've developed.
 
 - **ValueInvestor**: https://github.com/Usama-zia/value_investor.git
 - **MonReader**: https://github.com/Usama-zia/MonReader.git
