@@ -4,7 +4,6 @@ I'm Usama Muhammadi, a Data Scientist, Machine Learning Engineer, and AI Enginee
 
 About Me
 - 📖 Education: Masters in Artificial Intelligence (University of Essex)
-- 👷🏻‍♂️ Freelancer
 - 📚 Tech Stack: Python, SQL, MATLAB, JavaScript, C++, C#
 - 🤓 Looking to collaborate on Artificial Intelligence projects
 - 🤔 If you're an AI Enthusiast, I would love to have a conversation with you!
@@ -18,6 +17,7 @@ Explore a curated collection of my data science portfolio, showcasing a diverse 
 - **Potential Talents**: https://github.com/Usama-zia/Potential-Talent.git
 - **Term Deposit Marketing**: https://github.com/Usama-zia/Term-Deposit-Marketing.git
 - **Happy Customers**: https://github.com/Usama-zia/Happy-Customers.git
+- - **Heart Diease Detection Application**: https://github.com/Usama-zia/Heart-Disease-Detection-Application.git
 
 <!--
 
