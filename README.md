@@ -18,6 +18,7 @@ Explore a curated collection of my data science portfolio, showcasing a diverse 
 - **Term Deposit Marketing**: https://github.com/Usama-zia/Term-Deposit-Marketing.git
 - **Happy Customers**: https://github.com/Usama-zia/Happy-Customers.git
 - **Heart Diease Detection Application**: https://github.com/Usama-zia/Heart-Disease-Detection-Application.git
+- **voice_cloning_and_fake_audio_detection**: https://github.com/Usama-zia/voice_cloning_and_fake_audio_detection.git
 
 <!--
 
