@@ -4,9 +4,16 @@ I'm Usama Muhammadi, a Data Scientist, Machine Learning Engineer, and AI Enginee
 
 About Me
 - 📖 Education: Masters in Artificial Intelligence (University of Essex)
-- 📚 Tech Stack: Python, SQL, MATLAB, JavaScript, C++, C#
+- 📚 Tech Stack: Python, SQL, scikit-learn, TensorFlow, PyTorch, Keras, Transformers.
 - 🤓 Looking to collaborate on Artificial Intelligence projects
 - 🤔 If you're an AI Enthusiast, I would love to have a conversation with you!
+
+Skills
+- 🏭 Industry Knowledge: Data Analysis, Machine Learning, Deep Learning, Multi-Modal Machine Learning, NLP, Forcasting.
+- 💻 Programming Languages: Python, SQL, R, C++, MATLAB.
+- 📚 Libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib, Beautiful Soup, Scrapy, NLTK, Spacy, Gensim
+- 🖥️ Frameworks: scikit-learn, TensorFlow, PyTorch, Keras, Transformers, OpenAI API.
+- 🛠️ Web/Engineering Skills: HTML, CSS, JS, Flask, Django, Git, GitHub, Docker, AWS, CI/CD, MLOps
 
 ### Projects
 #### Data Science Projects
