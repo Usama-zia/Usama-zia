@@ -19,6 +19,7 @@ Skills
 #### Data Science Projects
 Explore a curated collection of my data science portfolio, showcasing a diverse range of projects that demonstrate my expertise in machine learning and deep learning. These projects encompass a variety of advanced algorithms for tasks such as classification, image segmentation, and ranking. My work spans several exciting fields, including computer vision, Natural Language Processing (NLP), multimodal machine learning, image preprocessing, exploratory data analysis, statistical testing, and data resampling techniques. Dive into these projects through the links below to see the innovative solutions and insights I've developed.
 
+- **split_decision_analytics**: https://github.com/Usama-zia/split_decision_analytics.git
 - **ValueInvestor**: https://github.com/Usama-zia/value_investor.git
 - **MonReader**: https://github.com/Usama-zia/MonReader.git
 - **Potential Talents**: https://github.com/Usama-zia/Potential-Talent.git
